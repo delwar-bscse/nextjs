@@ -65,5 +65,8 @@
   body {
     @apply bg-background text-foreground;
   }
+  maxwidth {
+    @apply w-full max-w-customWidth mx-auto
+  }
 }
 
